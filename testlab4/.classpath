@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="mutest"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/大三下/软件测试/实验四/MuJava/MuJava/junit.jar"/>
+	<classpathentry kind="lib" path="F:/大三下/软件测试/实验四/MuJava/MuJava/mujava.jar"/>
+	<classpathentry kind="lib" path="F:/大三下/软件测试/实验四/MuJava/MuJava/openjava.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
